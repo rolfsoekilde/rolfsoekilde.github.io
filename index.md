@@ -18,8 +18,6 @@ Mit primære projekt er udviklingen af en komplet digital lærebog til matematik
 
 ---
 ## matematik felter test for matjax
----
-### Test af matematik:
 
 Her er en brøk: $\frac{a}{b}$ og her er en renteformel: $K_n = K_0 \cdot (1+r)^n$.
 
