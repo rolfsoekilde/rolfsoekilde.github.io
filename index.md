@@ -17,6 +17,13 @@ Mit primære projekt er udviklingen af en komplet digital lærebog til matematik
 * **Tools:** Indbyggede beregnere til $\chi^2$-test, annuitetslån og lineær optimering.
 
 ---
+## matematik felter test for matjax
+---
+### Test af matematik:
+
+Her er en brøk: $\frac{a}{b}$ og her er en renteformel: $K_n = K_0 \cdot (1+r)^n$.
+
+---
 
 ## 🛠️ Mine Værktøjer
 Her er en samling af de standalone værktøjer, jeg har udviklet til undervisningsbrug:
